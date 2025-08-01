@@ -13,7 +13,6 @@ A C++ framework for vulnerability scanning and protocol validation in embedded s
 EmbeddedSystemsSecurityAuditPlatform_CPP/
 
 ├── README.md
-
 ├── src/
 
 │ ├── main.cpp
