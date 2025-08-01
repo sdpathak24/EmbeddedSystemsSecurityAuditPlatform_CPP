@@ -11,22 +11,14 @@ A C++ framework for vulnerability scanning and protocol validation in embedded s
 ## Project Structure
 
 EmbeddedSystemsSecurityAuditPlatform_CPP/
-
-├── README.md
-├── src/
-
+|── README.md
+|── src/
 │ ├── main.cpp
-
 │ ├── can_security.cpp
-
 │ ├── can_security.h
-
 │ ├── crypto.cpp
-
 │ ├── crypto.h
-
 │ └── scan_report.txt # Generated after running the audit tool
-
 └── LICENSE
 
 ## How to Build and Run
